@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @gw3ndigo
+- 👀 I’m interested in rust, python, machine learning, LLM vulnerabilities, and trans right
+- 🌱 I’m currently learning rust and machine learning
+- 💞️ I’m looking to collaborate on LLM AVs and cool rust or python project ideas. But if you have any idea that I might like feel free to reach out ❤️
+- 📫 How to reach me gw3n.rs@pm.me
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I love Tetris
+- I will update this readme and make it pretty soon
